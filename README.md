@@ -3,7 +3,7 @@
 - AMP
 - WordPress AMP
 
-# WEBSITE TESTES
+# WEBSITE TEST
 All things need to test while launching website on the Internet
 
 <ul>
