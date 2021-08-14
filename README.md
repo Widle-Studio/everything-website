@@ -60,9 +60,43 @@ All things need to test while launching website on the Internet
       <li>Open Graph Protocol Implementation - https://ogp.me/</li>
     </ul>
   </li>
-  <ul>Local Business
-    <li>Registration for Local Business - https://www.google.com/business/</li>
-  </ul>
+  <li>Online Presence Tools
+    <ul>
+      <li>Google My Business Websites</li>
+      <li>Learn My Way</li>
+      <li>Wix</li>
+      <li>1&1</li>
+      <li>Jimdo</li>
+      <li>Test My Site</li>
+      <li>Search Console</li>
+      <li>G Suite - Gmail, Drive, Docs and More</li>
+      <li>Grow My Store</li>
+    </ul>
+  </li>
+  <li>Local Business
+    <ul>
+      <li>Google for Local Business - https://www.google.com/business/</li>
+      <li>Bing Places for Local Business - https://www.bingplaces.com/</li>
+      <li>Facebook for Local Business - https://www.facebook.com/business/learn/set-up-facebook-page/</li>
+      <li>Twitter for Business - https://business.twitter.com/</li>
+    </ul>
+  </li>
+  <li>Analytics Tools
+    <ul>
+      <li>Google Analytics - http://www.google.com/intl/en_uk/analytics/</li>
+      <li>Adobe Analytics - http://www.adobe.com/il_en/marketing-cloud/web-analytics.html</li>
+    </ul>
+  </li>
+  <li>Marketing & Advertising Tools
+    <ul>
+      <li>Google Ads</li>
+      <li>Think With Google</li>
+      <li>Bing Ads</li>
+      <li>Twitter Ads</li>
+      <li>Facebook Ads</li>
+      <li>LinkedIn Marketing Solutions</li>
+    </ul>
+  </li>
 </ul>
 
 - Check How many pages of your website is it Google's index - Example our website - widle.studio so it can be like -> site:widle.studio
