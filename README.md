@@ -10,7 +10,7 @@ All things need to test while launching website on the Internet
   <li>Full Website Test(Improve your mobile site) - https://www.thinkwithgoogle.com/feature/testmysite/</li>
   <li>Mobile-Friendly https://search.google.com/test/mobile-friendly</li>
   <li>Secure Website with SSL(https)</li>
-  <li>Structured Data Markup Helper - https://www.google.com/webmasters/markup-helper/u/0/</li>
+  <li>Structured Data Markup Helper - https://www.google.com/webmasters/markup-helper/</li>
   <li>
     Measure - https://web.dev/measure/ [See how well your website performs. Then, get tips to improve your user experience. Sign in to track your progress over time]
     <ul>
@@ -18,6 +18,38 @@ All things need to test while launching website on the Internet
       <li>Best Practices</li>
       <li>SEO</li>
       <li>Accessibility</li>
+    </ul>
+  </li>
+  <li>Robots.txt Testing Tool https://www.google.com/webmasters/tools/robots-testing-tool</li>
+  <li>Sitemap
+     <ul>
+       <li>How to Create Sitemap and Submit Sitemap - https://developers.google.com/search/docs/advanced/sitemaps/build-sitemap</li>
+       <li>Large Sitemaps Guide - https://developers.google.com/search/docs/advanced/sitemaps/large-sitemaps</li>
+    </ul>
+  </li>
+  <li>Search Operators - https://developers.google.com/search/docs/advanced/debug/search-operators/overview</li>
+  <li>Structured Data
+    <ul>
+      <li>Structured Data - https://developers.google.com/search/docs/advanced/structured-data/intro-structured-data</li>
+      <li>Rich Results Test - https://search.google.com/test/rich-results</li>
+    </ul>
+  </li>
+  <li>Schema
+    <ul>
+      <li>Schema Implementation Guide - https://schema.org/docs/gs.html</li>
+      <li>Validate/Test Schema Implementation - https://validator.schema.org/</li>
+    </ul>
+  </li>
+  <li>Web Stories
+    <ul>
+      <li>Web Stories - https://developers.google.com/search/docs/advanced/appearance/enable-web-stories</li>
+      <li>AMP Web Story Test - https://search.google.com/test/amp</li>
+      <li>AMP Linter - https://github.com/ampproject/amp-toolbox/tree/main/packages/linter</li>
+    </ul>
+  </li>
+  <li>Open Graph
+    <ul>
+      <li>Open Graph Protocol Implementation - https://ogp.me/</li>
     </ul>
   </li>
 </ul>
