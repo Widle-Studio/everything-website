@@ -13,8 +13,8 @@ All things need to test while launching website on the Internet
   <li>Structured Data Markup Helper - https://www.google.com/webmasters/markup-helper/u/0/</li>
 </ul>
 
-Check How many pages of your website is it Google's index - Example our website - widle.studio so it can be like -> site:widle.studio
+- Check How many pages of your website is it Google's index - Example our website - widle.studio so it can be like -> site:widle.studio
 
-Registration for Local Business - https://www.google.com/business/
+- Registration for Local Business - https://www.google.com/business/
 
-Connect to Search Console https://search.google.com/search-console
+- Connect to Search Console https://search.google.com/search-console
