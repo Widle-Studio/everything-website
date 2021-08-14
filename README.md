@@ -2,6 +2,7 @@
 All things need to test while launching website on the Internet
 
 <ul>
+  <li>Full Website Test(Improve your mobile site) - https://www.thinkwithgoogle.com/feature/testmysite/</li>
   <li>Mobile-Friendly https://search.google.com/test/mobile-friendly</li>
   <li>Secure Website with SSL(https)</li>
   <li>Structured Data Markup Helper - https://www.google.com/webmasters/markup-helper/u/0/</li>
