@@ -52,10 +52,11 @@ All things need to test while launching website on the Internet
       <li>Open Graph Protocol Implementation - https://ogp.me/</li>
     </ul>
   </li>
+  <ul>Local Business
+    <li>Registration for Local Business - https://www.google.com/business/</li>
+  </ul>
 </ul>
 
 - Check How many pages of your website is it Google's index - Example our website - widle.studio so it can be like -> site:widle.studio
-
-- Registration for Local Business - https://www.google.com/business/
 
 - Connect to Search Console https://search.google.com/search-console
