@@ -101,7 +101,7 @@ All things need to test while launching website on the Internet
 
 - Check How many pages of your website is it Google's index - Example our website - widle.studio so it can be like -> site:widle.studio
 
-<ul>Local SEO Work
+<ul> <h3>Local SEO Work</h3>
   <li>
     LOCAL SEO ON-PAGE
 Local keyword research for 5 products or services
