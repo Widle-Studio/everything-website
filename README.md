@@ -100,3 +100,52 @@ All things need to test while launching website on the Internet
 </ul>
 
 - Check How many pages of your website is it Google's index - Example our website - widle.studio so it can be like -> site:widle.studio
+
+<ul>Local SEO Work
+  <li>
+    LOCAL SEO ON-PAGE
+Local keyword research for 5 products or services
+Titles and meta descriptions (for 5 keywords per location)
+Address added to the current page (s) of the website (if applicable)
+Quarterly SEO writing or GMB posts with the most suitable local keywords
+Microformat HTML / Schema hCard tags added to address on website
+
+CITATION MANAGEMENT
+Automatic request and management of citations, including:
+- Google My Business
+- Bing
+- Apple Maps
+- Facebook
+Google My Business configuration / optimization
+Checking the Google My Business address
+Creation or revision of the Facebook company page
+Import of citation information for each location, including:
+- Details and description of the business (optimized for SEO)
+- Company name, logo and cover image
+- Hours of operation, phone number, website and address
+- Payment methods
+- Links to social networks
+- Uploading images of professional activity (images provided by the client)
+Active management of citation data on more than 40 local business websites
+Updates to location citation information as needed
+Reports on citations created by location
+
+REVIEW MANAGEMENT
+Notifications for reviews / social interactions on all tracked profiles
+Positive reviews can be automatically added to the website
+
+PERSONALIZED REPORTS
+Monthly call reports
+Monthly local SEO reports, including:
+- Profile visits
+- Website visits from local profiles
+- Phone calls
+- Requests for how to get there
+- Monthly reports of local positions
+- Keywords that go up and down
+- Google local positions
+- Google organic positions
+- Search positions in Bing / Yahoo
+Summary report with data from all locations
+  </li>
+</ul>
