@@ -159,7 +159,45 @@ Summary report with data from all locations
   </li>
 </ul>
 
-<ul>Frameworks
+## Frameworks
+<ul>
   <li>React</li>
   <li>Angular</li>
 </ul>
+
+## The need for mobile speed
+###### Google’s user performance data shows that even the smallest fraction of a second in page load can change customer focus and interaction.
+<table>
+  <thead>
+    <tr>
+      <th>Time to Load</th>
+      <th>User Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>0 to 16ms</b></td>
+      <td>Users are exceptionally good at tracking motion, and they dislike it when animations aren't smooth. They perceive animations as smooth so long as 60 new frames are rendered every second. That's 16ms per frame, including the time it takes for the browser to paint the new frame to the screen, leaving an app about 10ms to produce a frame.</td>
+    </tr>
+    <tr>
+      <td><b>0 to 100ms</b></td>
+      <td>Respond to user actions within this time window and users feel like the result is immediate. Any longer, and the connection between action and reaction is broken.</td>
+    </tr>
+    <tr>
+      <td><b>100 to 300ms</b></td>
+      <td>Users experience a slight perceptible delay</td>
+    </tr>
+    <tr>
+      <td><b>300 to 1000ms</b></td>
+      <td>Within this window, things feel part of a natural and continuous progression of tasks. For most users on the web, loading pages or changing views represents a task.</td>
+    </tr>
+    <tr>
+      <td><b>1000ms or more</b></td>
+      <td>Beyond 1000 milliseconds (1 second), users lose focus on the task they are performing.</td>
+    </tr>
+    <tr>
+      <td><b>10000ms or more</b></td>
+      <td>Beyond 10000 milliseconds (10 seconds), users are frustrated and are likely to abandon tasks. They may or may not come back later.</td>
+    </tr>
+  </tbody>
+</table>
