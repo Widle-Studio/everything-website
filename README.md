@@ -1,3 +1,13 @@
+1. Think
+2. Prototype
+3. Design
+4. Test
+-- Rising Expectations in the Mobile-First World
+5. Deploy
+6. Marketing
+-- SEO
+
+
 # WEBSITE/WEB APP DEVELOPMENT
 - PWA
 - AMP
