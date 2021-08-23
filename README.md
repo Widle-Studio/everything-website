@@ -7,6 +7,15 @@
 All things need to test while launching website on the Internet
 
 <ul>
+  <li>Audits
+    <ul>
+      <li>Performance Audit<ul><li></li></ul></li>
+      <li>PWA Audits<ul><li></li></ul></li>
+      <li>Best Practices Audits<ul><li></li></ul></li>
+      <li>Accessibility Audits<ul><li></li></ul></li>
+      <li>SEO Audits<ul><li></li></ul></li>
+    </ul>
+  </li>
   <li>Website Test Tool
     <ul>
       <li>Google Search Console - https://search.google.com/search-console</li>
@@ -148,4 +157,9 @@ Monthly local SEO reports, including:
 - Search positions in Bing / Yahoo
 Summary report with data from all locations
   </li>
+</ul>
+
+<ul>Frameworks
+  <li>React</li>
+  <li>Angular</li>
 </ul>
