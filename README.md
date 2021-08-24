@@ -2,7 +2,7 @@
 2. Prototype
 3. Design
 4. Test
--- Rising Expectations in the Mobile-First World
+  <ul><li>Rising Expectations in the Mobile-First World</li></ul>
 5. Deploy
 6. Marketing
 -- SEO
@@ -175,6 +175,7 @@ Summary report with data from all locations
   <li>Angular</li>
 </ul>
 
+# Rising Expectations in the Mobile-First World
 ## The need for mobile speed
 ###### Google’s user performance data shows that even the smallest fraction of a second in page load can change customer focus and interaction.
 <table>
@@ -211,3 +212,14 @@ Summary report with data from all locations
     </tr>
   </tbody>
 </table>
+
+
+
+Source & Credites
+-----------------
+- https://www2.deloitte.com/content/dam/Deloitte/ie/Documents/Consulting/Milliseconds_Make_Millions_report.pdf
+- Google Insight
+- Google Web Blog
+- Web.dev
+- Mozilla Blog
+- Deloitte Research and Blogs
