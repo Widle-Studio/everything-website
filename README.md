@@ -1,14 +1,22 @@
 # EVERYTHING WEBSITE
 
-1. Think
-2. Prototype
-3. Design
-4. Test
-  <ul><li>Rising Expectations in the Mobile-First World</li></ul>
-5. Deploy
-6. Marketing
--- SEO
-
+<table>
+    <tr>
+      <td>
+        <ol>
+          <li>Think</li>
+          <li>Prototype</li>
+          <li>Design</li>
+          <li>Develop</li>
+          <li>Test</li>
+            <ol><li>Rising Expectations in the Mobile-First World</li></ol>
+          <li>Deploy</li>
+          <li>Marketing</li>
+            <ol><li>SEO</li></ol>
+        </ol>
+      </td>
+    </tr>
+  </table>
 
 # WEBSITE/WEB APP DEVELOPMENT
 - PWA
