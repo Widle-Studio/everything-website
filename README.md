@@ -1376,3 +1376,4 @@ Source & Credites
 - Web.dev
 - Mozilla Blog
 - Deloitte Research and Blogs
+- Design - https://github.com/bradtraversy/design-resources-for-developers
