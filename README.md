@@ -1,4 +1,4 @@
-# Everything Website
+# EVERYTHING WEBSITE
 
 1. Think
 2. Prototype
