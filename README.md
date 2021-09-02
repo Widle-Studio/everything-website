@@ -297,7 +297,7 @@ Summary report with data from all locations
 | [Exemplar](https://themeselection.com/products/exemplar-free-avatar-library-for-figma-and-sketch/) | Free Avatar Library for Figma and Sketch|
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Fonts
@@ -405,7 +405,7 @@ Summary report with data from all locations
 | [Veranda Color](https://verandacolor.com) | Browse color palettes made by other designers, generate and submit your own |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Icons
@@ -465,7 +465,7 @@ Summary report with data from all locations
 | [iconhub](https://iconhub.io/) | Just practical stunning icons for everyone |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Logos
@@ -485,7 +485,7 @@ Summary report with data from all locations
 | [Free Logo Maker](https://www.namecheap.com/logo-maker/)| Fast, All-in-One Logo Generator |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Favicons
@@ -501,7 +501,7 @@ Summary report with data from all locations
 | [FontIcon](https://gauger.io/fonticon/)| Generate favicons and images from Font Awesome icons |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Icon Fonts
@@ -533,7 +533,7 @@ Summary report with data from all locations
 | [Hero Icons](https://heroicons.dev/)| Free Open Source Svg Icon Library |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Stock Photos
@@ -577,7 +577,7 @@ Summary report with data from all locations
 | [Saxifraga](http://www.freenatureimages.eu) | Free nature images |
 | [Creative Commons](https://search.creativecommons.org) | Search for free images to reuse.
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Stock Videos
@@ -597,7 +597,7 @@ Summary report with data from all locations
 | [SplitShire](https://www.splitshire.com/)| Beautiful & exclusive free stock videos & photos |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Stock Music & Sound Effects
@@ -615,7 +615,7 @@ Summary report with data from all locations
 | [Unminus](https://www.unminus.com/)| Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Vectors & Clip Art
@@ -652,7 +652,7 @@ Summary report with data from all locations
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Product & Image Mockups
@@ -677,7 +677,7 @@ Summary report with data from all locations
 | [MockupBro](https://mockupbro.com/)| Create product mockups with online mockup generator! Just choose a mockup, upload your design and download your image without a watermark. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## HTML & CSS Templates
@@ -714,7 +714,7 @@ Summary report with data from all locations
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## CSS Frameworks
@@ -773,7 +773,7 @@ Summary report with data from all locations
 | [Tacit](https://github.com/yegor256/tacit) | Primitive CSS Framework for dummies, without classes. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## CSS Methodologies
@@ -788,7 +788,7 @@ Summary report with data from all locations
 | [SMACSS](http://smacss.com/) | SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## CSS Animations
@@ -817,7 +817,7 @@ Summary report with data from all locations
 | [AnimXYZ](https://animxyz.com/)| AnimXYZ helps you create, customize, and compose animations for your website. Built for Vue, React, SCSS, and CSS |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Javascript Animation Libraries
@@ -849,7 +849,7 @@ Summary report with data from all locations
 | [Simple Parallax](https://simpleparallax.com/)| The easiest way to get a parallax effect with javascript |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## UI Components & Kits
@@ -895,7 +895,7 @@ Summary report with data from all locations
 | [Stitches](https://stitches.dev/)| CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 
@@ -956,7 +956,7 @@ Summary report with data from all locations
 | [Gestalt](https://github.com/pinterest/gestalt)| A set of React UI components that supports Pinterest’s design language. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Vue UI
@@ -996,7 +996,7 @@ Summary report with data from all locations
 | [VueTailwind](https://www.vue-tailwind.com/) | Set of Lightview and fully customizable Vue Components optimized for TailwindCSS. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Angular UI
@@ -1023,7 +1023,7 @@ Summary report with data from all locations
 | [Clarity](https://clarity.design/)| CSS based Angular UI framework developed by VMware group |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Svelte UI
@@ -1038,7 +1038,7 @@ Summary report with data from all locations
 | [Svelte Particles](https://particles.matteobruni.it/)| A lightweight Svelte component for creating particles |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## React Native UI
@@ -1058,7 +1058,7 @@ Summary report with data from all locations
 | [Ant Design Mobile RN](https://rn.mobile.ant.design/)| An Ant design based configurable Mobile UI component library based on React Native.  |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Design Systems & Style Guides
@@ -1105,7 +1105,7 @@ Summary report with data from all locations
 | [Pr1mer Guidelines](https://guidelines.pr1mer.tech) | An open source set of very general guidelines, inspired by Human Interface. Created and maintained by Pr1mer Tech |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Online Design Tools
@@ -1166,7 +1166,7 @@ Summary report with data from all locations
 | [Carbon](https://carbon.now.sh)| Create and share beautiful images of your source code by typing or drop a file. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Downloadable Design Software
@@ -1192,7 +1192,7 @@ Summary report with data from all locations
 | [Colorpicker](https://colorpicker.fr)| Open Source colors software: Retrieve, manipulate and store your colors easily! |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Design Inspiration
@@ -1234,7 +1234,7 @@ Summary report with data from all locations
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Image Compression
@@ -1263,7 +1263,7 @@ Summary report with data from all locations
 | [Vecta Nano](https://vecta.io/nano) | Uses lossless compression to compress inefficient SVG codes by removing unnecessary data. (Free & Paid)  |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Chrome Extensions
@@ -1305,7 +1305,7 @@ Summary report with data from all locations
 | [Fonts Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Identify fonts from any website, bookmark, try, and buy them. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 ## Others
@@ -1355,7 +1355,7 @@ Summary report with data from all locations
 | [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/) | An interactive list of Bootstrap classes, variables, and mixins. The only Bootstrap CheatSheet you will ever need. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#everything-website">↥ Back To Top</a></b>
 </div>
 
 
